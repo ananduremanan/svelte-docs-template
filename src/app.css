@@ -2,10 +2,34 @@
 @tailwind components;
 @tailwind utilities;
 
-code {
-  /* @apply text-sm bg-gray-200 p-1 rounded dark:bg-gray-500; */
+article {
+  width: 100%;
 }
 
 h3 {
   margin-top: 1rem !important;
+}
+
+.language-svelte {
+  @apply text-yellow-300;
+}
+
+.language-svelte .keyword {
+  @apply text-blue-400;
+}
+
+.language-svelte .string {
+  @apply text-white;
+}
+
+.language-svelte .punctuation {
+  @apply text-blue-500;
+}
+
+.language-svelte .script {
+  @apply text-green-500;
+}
+
+.language-svelte .language-javascript {
+  @apply text-green-300;
 }
