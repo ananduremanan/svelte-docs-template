@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-article {
-  width: 100%;
-}
-
 h3 {
   margin-top: 1rem !important;
 }
