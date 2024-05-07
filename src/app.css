@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+code {
+  /* @apply text-sm bg-gray-200 p-1 rounded dark:bg-gray-500; */
+}
+
+h3 {
+  margin-top: 1rem !important;
+}
