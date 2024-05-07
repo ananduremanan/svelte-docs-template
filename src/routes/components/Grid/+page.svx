@@ -2,7 +2,8 @@
 
 This will tell how to use Grid
 
-```javscript
+
+```svelte
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import Grid from '@grampro/svelte-block/Grid.svelte';
