@@ -21,3 +21,5 @@ Run the project
 ```
 npm run dev
 ```
+
+To Add More Pages just create new folders with the page name in components directory inside `src` -> `routes`
