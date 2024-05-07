@@ -1,4 +1,6 @@
-# Svelte Docs Template Using SvelteKit, MDSVEX and Tailwind CSS
+# How to Create Svelte Docs Template Using SvelteKit, MDSVEX and Tailwind CSS
+
+This is a smaple template for Svelte Documentations created using [Sveltekit](https://svelte.dev/), [MDSVEX](https://mdsvex.pngwn.io/) and [Tailwind](https://tailwindcss.com/)
 
 ## Intallation
 
@@ -9,6 +11,7 @@ Clone The Repo with command
 ```
 
 Install the dependencies
+
 ```
 npm install
 ```
