@@ -9,7 +9,7 @@
   }
 </script>
 
-<div class="w-80 hidden md:block border-r sx-sidebar static overflow-y-auto bg-white">
+<div class="w-80 hidden md:block border-r sx-sidebar static overflow-y-auto">
   {#if menuItemsArray}
     <ul class="dark:text-white px-12">
       <li
